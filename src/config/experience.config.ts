@@ -5,19 +5,20 @@ export const experiencesConfig: Experience[] = [
     "title": "Founder & CEO",
     "employmentType": "Founder & CEO",
     "company": {
-      "name": "Sonicrypt",
-      "url": "https://sonicrypt.rdsx.dev"
+      "name": "DesignPreet",
+      "url": "https://designpreet.agency/"
     },
     "location": {
       "name": "On site"
     },
-    "start": "April 2024",
+    "start": "March 2020",
     "end": "Present",
     "description": [
-      "Developed world's first sonification device for blockchain transactions",
-      "Developed a web faced product for the device",
-      "Developed the firmware for the device",
-      "Developed a mobile app for configuring the device",
+      "Developed robust and dynamic websites for diverse clients",
+    "Created custom web applications tailored to client needs",
+    "Integrated advanced APIs to enhance website functionality",
+    "Optimized website performance for improved user experience",
+    "Designed responsive web interfaces for seamless access across devices",
     ]
    },
    {
