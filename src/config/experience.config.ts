@@ -22,21 +22,7 @@ export const experiencesConfig: Experience[] = [
     ]
    },
    
-  {
-    title: "Fullstack developer",
-    employmentType: "Open Source contributor",
-    company: {
-      name: "LunCo",
-      url: "https://lunco.space",
-    },
-    location: { name: "Remote" },
-    start: "December, 2023",
-    end: "February, 2024",
-    description: [
-      "Currently adding more features to the web faced product of LunCo",
-      "Developed the official website of LunCo",
-    ],
-  },
+ 
   {
     title: "Robot Programmer",
     employmentType: "Internship",
