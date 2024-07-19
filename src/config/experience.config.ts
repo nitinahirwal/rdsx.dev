@@ -21,23 +21,7 @@ export const experiencesConfig: Experience[] = [
     "Designed responsive web interfaces for seamless access across devices",
     ]
    },
-   {
-    "title": "Founding Engineer",
-    "employmentType": "Founding Engineer",
-    "company": {
-      "name": "Leapflow",
-      "url": "https://leapflow.tech"
-    },
-    "location": {
-      "name": "Remote"
-    },
-    "start": "May 2024",
-    "end": "Present",
-    "description": [
-      "Developed the landing page of Leapflow",
-      "Currently working on the core product of Leapflow",
-    ]
-   },
+   
   {
     title: "Fullstack developer",
     employmentType: "Open Source contributor",
